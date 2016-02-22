@@ -1,0 +1,3 @@
+//µÇÂ¼
+Login = 1001
+ChatLogin = 1002

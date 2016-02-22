@@ -1,0 +1,13 @@
+package ServerMessage;
+
+message TosChat
+{
+	required string name = 1;
+	required string content = 2;
+}
+
+message TocChat
+{
+	required string name = 1;
+	required string content = 2;
+}
